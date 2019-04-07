@@ -20,7 +20,7 @@ github_username:  hszhsz
 disqus_username:
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 permalink: /:categories/:title/
 
 # Posts settings
@@ -34,7 +34,6 @@ compress_html:
   comments: ["<!-- ", " -->"]
   clippings: all
   endings: all
-
 
 sass:
   sass_dir: assets/_sass
