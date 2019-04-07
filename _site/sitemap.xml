@@ -3,6 +3,15 @@
 
   
   <url>
+    <loc>http://localhost:4000/posts/qingming/</loc>
+    
+      <lastmod>2019-04-07</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:4000/posts/OS-history/</loc>
     
       <lastmod>2015-07-31</lastmod>
