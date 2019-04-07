@@ -15,12 +15,12 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 lang: "ch"
 url: "http://hszhsz.github.io/blog/" # the base hostname & protocol for your site
-twitter_username: 
+twitter_username:
 github_username:  hszhsz
 disqus_username:
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: /:categories/:title/
 
 # Posts settings

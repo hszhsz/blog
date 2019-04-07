@@ -8,12 +8,14 @@ summary: "About this blog"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+"人生匆匆三十年"，常戏说的一句话。转眼已是三十而立之年，仿佛大限将至。然而回望过去的二十多年（虚岁三十），少有足迹。二十多岁刻意不去表达是因为觉得对世界的认识不够
+，如今离"不惑"还是很远，但还是希望留下一些人生痕迹。
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+于是重新开启了这个博客，希望达到两个目的：
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+*记录生活点滴
+
+*督促学习技术、总结技术
+
+这个博客是2015年就开始了，已经荒废多年。现在把原来写的两篇残缺的碎片迁移过来，未来希望每周有三篇更新。
+
