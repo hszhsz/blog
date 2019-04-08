@@ -6,9 +6,38 @@
 </description>
     <link>http://localhost:4000/blog/</link>
     <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Apr 2019 21:11:01 +0800</pubDate>
-    <lastBuildDate>Sun, 07 Apr 2019 21:11:01 +0800</lastBuildDate>
+    <pubDate>Mon, 08 Apr 2019 23:32:55 +0800</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2019 23:32:55 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>The clean coder</title>
+        <description>&lt;p&gt;“The Clean Coder”是Robert C. Martin的大作。读完深以为然，希望接下来的职业生涯能践行书中的”最佳实践”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;注重专业性&lt;/em&gt; 专业技能扎实、工作负责&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;注重测试&lt;/em&gt; 践行TDD原则&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;高效编码&lt;/em&gt; 编码是一向创造性的脑力劳动，合理利用有效编码时间&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;学会管理时间&lt;/em&gt; 量化时间并合理运用&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;学会面对压力&lt;/em&gt; 最好的面对压力方式是避免压力&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;注重团队培养&lt;/em&gt; 认识到具有凝聚力的团队是做事的前提&lt;/p&gt;
+
+&lt;p&gt;原书的下载地址是：&lt;a href=&quot;http://booksdescr.org/item/index.php?md5=7547628A82242F64805FAC4126264824&quot; title=&quot;The Clean Coder&quot;&gt;The Clean Coder&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Apr 2019 00:09:47 +0800</pubDate>
+        <link>http://localhost:4000/blog/posts/the-clean-coder/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/posts/the-clean-coder/</guid>
+        
+        <category>读书</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
     
       <item>
         <title>清明散记</title>
