@@ -1,5 +1,5 @@
 ---
-bg: cassandra.jpg
+bg: life.jpg
 layout: post
 title:  "遗愿清单"
 crawlertitle: "遗愿清单"
