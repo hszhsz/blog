@@ -1,5 +1,5 @@
 ---
-bg: cassandra.jpg
+bg: craftsman.jpg
 layout: post
 title:  "[Cassandra]深入理解tombstones"
 crawlertitle: "[Cassandra]深入理解tombstones"

@@ -1,5 +1,5 @@
 ---
-bg: life.jpg
+bg: craftsman.jpg
 layout: post
 title:  "遇见自己"
 crawlertitle: "遇见自己"

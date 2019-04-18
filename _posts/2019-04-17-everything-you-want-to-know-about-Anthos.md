@@ -1,5 +1,5 @@
 ---
-bg: cassandra.jpg
+bg: craftsman.jpg
 layout: post
 title:  "[云原生]你想知道的关于Anthos的一切"
 crawlertitle: "[云原生]你想知道关于Anthos的一切"
