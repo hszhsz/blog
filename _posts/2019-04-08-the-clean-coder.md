@@ -1,10 +1,10 @@
 ---
-bg: cleancoder.jpg
+bg: craftsman.jpg
 layout: post
 title:  "The clean coder"
 crawlertitle: "The clean coder"
 summary: "The clean coder"
-date:   2019-04-06 23:09:47 +0700
+date:   2019-04-06 23:09:47 +0800
 categories: posts
 tags: ['读书']
 author: 世农

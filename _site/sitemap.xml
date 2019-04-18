@@ -3,9 +3,90 @@
 
   
   <url>
+    <loc>http://localhost:4000/posts/cassandra-performance-tunning/</loc>
+    
+      <lastmod>2019-04-18</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/posts/cassandra-maintenance/</loc>
+    
+      <lastmod>2019-04-18</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/posts/cassandra-data-modeling/</loc>
+    
+      <lastmod>2019-04-18</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/posts/algorithm-in-cassandra/</loc>
+    
+      <lastmod>2019-04-18</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/posts/bucket-list/</loc>
+    
+      <lastmod>2019-04-18</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/posts/everything-you-want-to-know-about-Anthos/</loc>
+    
+      <lastmod>2019-04-17</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/posts/undstanding-cassandra-architecture/</loc>
+    
+      <lastmod>2019-04-13</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/posts/how-cassandra-store-data/</loc>
+    
+      <lastmod>2019-04-12</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/posts/undstanding-cassandra-tombstone/</loc>
+    
+      <lastmod>2019-04-11</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:4000/posts/the-clean-coder/</loc>
     
-      <lastmod>2019-04-07</lastmod>
+      <lastmod>2019-04-06</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -14,7 +95,7 @@
   <url>
     <loc>http://localhost:4000/posts/qingming/</loc>
     
-      <lastmod>2019-04-07</lastmod>
+      <lastmod>2019-04-06</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -23,7 +104,7 @@
   <url>
     <loc>http://localhost:4000/posts/OS-history/</loc>
     
-      <lastmod>2015-07-31</lastmod>
+      <lastmod>2015-07-30</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -32,7 +113,7 @@
   <url>
     <loc>http://localhost:4000/posts/know-yourself/</loc>
     
-      <lastmod>2015-07-24</lastmod>
+      <lastmod>2015-07-23</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>

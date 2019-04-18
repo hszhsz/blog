@@ -4,7 +4,7 @@ layout: post
 title:  "遇见自己"
 crawlertitle: "遇见自己"
 summary: "遇见自己"
-date:   2015-07-23 23:09:47 +0700
+date:   2015-07-23 23:09:47 +0800
 categories: posts
 tags: ['随笔']
 author: 世农

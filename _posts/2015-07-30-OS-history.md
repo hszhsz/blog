@@ -4,7 +4,7 @@ layout: post
 title:  "操作系统简史"
 crawlertitle: "操作系统简史"
 summary: "操作系统简史"
-date:   2015-07-30 23:09:47 +0700
+date:   2015-07-30 23:09:47 +0800
 categories: posts
 tags: ['技术']
 author: 世农
