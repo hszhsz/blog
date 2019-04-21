@@ -6,9 +6,45 @@
 </description>
     <link>http://localhost:4000/blog/</link>
     <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Apr 2019 23:33:54 +0800</pubDate>
-    <lastBuildDate>Thu, 18 Apr 2019 23:33:54 +0800</lastBuildDate>
+    <pubDate>Sun, 21 Apr 2019 21:32:34 +0800</pubDate>
+    <lastBuildDate>Sun, 21 Apr 2019 21:32:34 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>我对软件行业趋势的观察</title>
+        <description>&lt;p&gt;本篇博文记录的是我对软件行业分析观察到的趋势。也许不够成熟，也不成体系，仅仅是记录。&lt;/p&gt;
+
+&lt;p&gt;从软件工作的层面上讲，大致可以分为：基础设施层、业务应用层和数据处理层。&lt;/p&gt;
+
+&lt;h3 id=&quot;基础设施层&quot;&gt;基础设施层&lt;/h3&gt;
+
+&lt;p&gt;基础设施层的变化是云原生化。CNCF 以 k8s 为核心构建的生态正在重塑数据中心，不管是企业的on-premise的数据中心还是云数据数据中心。CNCF生态的发展类似于Linux的发展过程，k8s就是其内核。
+但是这个生态并没有直接触达应用开发者。Linux内核需要GNU工具包，CNCF也需要支持混合云/多云环境的直接面向开发者的平台。&lt;/p&gt;
+
+&lt;h3 id=&quot;业务应用层&quot;&gt;业务应用层&lt;/h3&gt;
+
+&lt;p&gt;业务应用正在进入微服务时代。过去阿里开源的Dubbo、CNCF的istio或者是Spring Cloud都已经比较完备。&lt;/p&gt;
+
+&lt;p&gt;业务开发语言从过去主流的Java，会渐渐地有一部分被GO替代。很重要的一个原因是过去Java引以为傲的一次编译处处运行的优点因为基础设施层的变化而被弱化了。&lt;/p&gt;
+
+&lt;p&gt;领域驱动设计方法会成为软件设计的主流方法，这其实是和应用微服务化相辅相成的。&lt;/p&gt;
+
+&lt;h3 id=&quot;数据处理&quot;&gt;数据处理&lt;/h3&gt;
+
+&lt;p&gt;数据处理进入流式处理时代，之前实时和批处理结合的Lambda架构会退出历史舞台。&lt;/p&gt;
+
+&lt;p&gt;作为一个从业接近六年（大数据四年）的软件行业从业者，我的目标是深耕数据处理方向的技能，包括：计算框架、机器学习和数据仓库，同时跟进基础设施和业务应用的发展趋势。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Apr 2019 21:09:47 +0800</pubDate>
+        <link>http://localhost:4000/blog/posts/software-industry-trend/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/posts/software-industry-trend/</guid>
+        
+        <category>技术</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
     
       <item>
         <title>[Cassandra]Cassandra性能调优</title>
@@ -72,27 +108,6 @@
         <guid isPermaLink="true">http://localhost:4000/blog/posts/algorithm-in-cassandra/</guid>
         
         <category>Cassandra</category>
-        
-        
-        <category>posts</category>
-        
-      </item>
-    
-      <item>
-        <title>遗愿清单</title>
-        <description>&lt;p&gt;看过一部摩根弗里曼主演的电影：遗愿清单(The Bucket List)。两个病危的老头将一生中想做而没有做的事情列在一张纸条上，然后用生命中仅剩的几个月的时间一项一项完成了。&lt;/p&gt;
-
-&lt;p&gt;人生总会遇到一些岔路口，左走右走，总有一处风景是要错过的。但是梦想总是要有的，万一实现了呢。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;获得博士学位&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 18 Apr 2019 19:45:47 +0800</pubDate>
-        <link>http://localhost:4000/blog/posts/bucket-list/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/posts/bucket-list/</guid>
-        
-        <category>人生</category>
         
         
         <category>posts</category>
